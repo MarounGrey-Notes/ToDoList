@@ -1,7 +1,3 @@
 # ToDoList
-In order to run the project make sure you install npm modules:
 
-Open the terminal and write:
-
-npm init
-npm i ejs body-parser express
+https://secure-beyond-72430.herokuapp.com/?fbclid=IwAR0KWgSyEbZ9hV8oVUzdy7sMSlpDxovNKvGykD7WuZsN2Jvlomsvl94IWGc
